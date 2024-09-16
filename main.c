@@ -45,7 +45,7 @@ int main(void)
    	}
    	else if((digital_value>250) && (digital_value<=500) )
    	{
-   		LCD_vidDisplayString("my name is ");
+   		LCD_vidDisplayString("my name is .. .");    ## you want to show according to voice 
    		LCD_vidWriteInteger(digital_value);
    		   	_delay_ms(1000);
    		   	LCD_vidClearDisplay();
