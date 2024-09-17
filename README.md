@@ -15,6 +15,7 @@ This project involves a pair of smart gloves designed to assist individuals who 
   ![speaker](https://github.com/user-attachments/assets/6b6095f7-e67e-4262-b7a1-3ea92339a4b3)
 - **USART (Universal Synchronous and Asynchronous serial Receiver and Transmitter)**: For serial communication.
 - **Sensors**: ( flex sensors )
+  
   ![flex](https://github.com/user-attachments/assets/2d197797-e372-4ebd-bd27-e326f0f7c453)
 
   
